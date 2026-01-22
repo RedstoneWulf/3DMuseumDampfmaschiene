@@ -144,7 +144,7 @@ const roomsData = [
       },
       {
         type: "blueprint",
-        image: "assets/dampfwatt",
+        image: "assets/dampfwatt.jpg",
         z: 0,
         xOffset: 78,
         label: "Bauplan: Watt",
@@ -238,7 +238,7 @@ const roomsData = [
         xOffset: -55,
         label: "Mechanischer Webstuhl",
         zoomOffset: {x: 45, y: 16, z: 40},
-        allowRotation: false,
+        allowRotation: true,
         // HIER DER NEUE DIALOG:
         dialog: [
           {
